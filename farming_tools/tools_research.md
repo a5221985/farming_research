@@ -73,6 +73,58 @@
 			1. Saves water, fuel, manure, fertilizer, and seeds
 			
 ## Tractor Buying Guide ##
+1. Questions to ask:
+	1. Can I not rent a tractor?
+		1. How much does it cost?
+	2. Is tractor not available for renting when needed?
+	3. If I am buying a tractor:
+		1. Am I just going to use it for myself?
+		2. Am I going to give it for rent?
+		3. Am I going to use it for other tasks?
+			1. Haulage
+			2. Interculture
+			3. Land leveling
+			4. Threshing
+		4. What is the maintenance cost?
+		5. When does it reach break-even point?
+		6. When will I start making profit?
+	4. What is the HP needed?
+		1. Depends on the type of tasks:
+			1. Only farming:
+				1. If soil is soft:
+					1. 30HP to 40HP
+				2. If soil is hard:
+					1. 40HP to 50HP
+			2. Farming (MB Plough, Vaccuum planter ...) + other tasks | uphill climbing | high load
+				1. > 50HP
+	5. 2WD or 4WD
+		1. 4WD is more versatile (supports many types of tasks, bigger implements, more traction, less slippage, lesser soil compaction, bigger tyres)
+			1. Improves productivity
+	6. Brand
+		1. Choose experts in tractor making
+		2. Parts are of the best quality
+		3. Accessible dealerships
+		4. Lower maintainance cost
+	7. Test drive
+		1. How easy it is to mount and descend from the tractor
+		2. How comfortable is the tractor seat
+		3. Check levers and ease of operation
+			1. Gear
+			2. PCDC
+			3. PTO
+			4. Range lever
+		4. Power steering is preferred
+			1. Easy of working
+		5. Mobile charging and slot
+		6. Check front visibility
+		7. Does tractor engine have **piston cooling jet**?
+			1. For longer engine life
+		8. Does transmission have **top shaft lubrication**?
+			1. For longer transmission life
+		9. Warranty
+			1. Talk to dealership
+		10. Check other features based on requirements
+		11. Re-sale value (for exchange)
 
 ## Polyhouse ##
 1. Challenges
